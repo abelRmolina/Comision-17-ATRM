@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Terminar Fichas de Rol",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "Escuchar podcasts sobre desarrollo de videojuegos y series",
+        "estado": "Finalizado"
+    },
+    {
+        "titulo": "Hacerme un sandwitch monte cristo con palta y friambrin con adereso de bigmacs",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "finalizando el trabajo practico",
+        "estado": "En proceso"
+    }
+]

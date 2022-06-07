@@ -1,0 +1,16 @@
+{
+    "marca" : "Ford",
+    "modelo" : "Focus",
+    "precio" : 7000000,
+    "vendido": false,
+    "concesionarias": [
+        {
+            "local" : "La plata",
+            "direccion": "calle falsa 34"
+        },
+        {
+            "local" : "Mendoza",
+            "direccion": "San martin 2134"
+        }
+    ]
+}

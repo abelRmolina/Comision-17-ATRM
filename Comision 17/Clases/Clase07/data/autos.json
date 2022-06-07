@@ -1,0 +1,19 @@
+[
+    {
+        "marca": "Toyota" ,
+        "modelo": "Corolla",
+        "año": 2017,
+        "km" : 30000 ,
+        "precio" : 4000000,
+        "color" : "Champagne"
+    },
+    {
+        "marca": "Ford" ,
+        "modelo": "Fiesta",
+        "año": 2010,
+        "km" : 300000,
+        "precio" : 800000,
+        "color" : "Azul Metalico"
+    }
+    
+]
